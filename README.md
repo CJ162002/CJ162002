@@ -1,4 +1,4 @@
-![logo](https://github.com/CJ162002/CJ162002/blob/main/Screenshot%202023-07-28%20183426.png)
+![logo](https://github.com/CJ162002/CJ162002/blob/main/Screenshot%202025-02-09.png)
 <h1 align="center">Hi 👋, I'm Chinmay Jadhav</h1>
 <h3 align="center">A passionate Electronic and Telecommunication Engineer from India</h3>
 
